@@ -56,7 +56,6 @@ This project implements a RESTful web server using Python and Flask that allows 
 ## How to Run the Tests
 
 Make sure you’re in the project directory. Then run:
-
     ```bash
     python3 -m unittest test_app.py
 
